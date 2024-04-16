@@ -1,0 +1,1 @@
+Place images in input folder and run the programe, outputs will be seen in output folder
